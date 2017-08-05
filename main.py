@@ -205,18 +205,3 @@ class HangedApp(App):
 if __name__ == '__main__':
 	HangedApp().run()
 
-
-# apt remove --purge openjdk-\*
-# install jdk-8 
-# apt install google-android-platform-19-installer
-	#- dl.google.com
-	#- esto me lleva a instalar todo el sdk manualmente [NO]
-# download and unpackage android sdk: http://dl.google.com/android/android-sdk_r24.4.1-linux.tgz
-# en lugar de hacer un update, se copia todos los tar.gz
-# 
-# for adb
-	#apt install libc6:i386 libstdc++6:i386
-# for aapt
-	#apt install zlib1g:i386
-# 
-# 
