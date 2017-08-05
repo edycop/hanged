@@ -1,0 +1,3 @@
+title=Hanged
+author=Python Popayán team
+orientation=portrait
